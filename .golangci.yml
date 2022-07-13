@@ -27,6 +27,7 @@ linters:
     - exhaustivestruct
     - ireturn
     - testpackage
+    - gochecknoglobals
 
 issues:
   exclude-rules:
