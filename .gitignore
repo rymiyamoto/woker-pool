@@ -4,7 +4,7 @@
 *.dll
 *.so
 *.dylib
-woker-pool
+worker-pool
 
 # Test binary, built with `go test -c`
 *.test
