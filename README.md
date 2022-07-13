@@ -1,5 +1,7 @@
 # worker-pool
 
+refs https://medium.com/@j.d.livni/write-a-go-worker-pool-in-15-minutes-c9b42f640923
+
 ## Getting Started
 
 事前に以下のものを入れてください
