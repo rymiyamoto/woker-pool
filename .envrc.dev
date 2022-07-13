@@ -1,0 +1,2 @@
+export DEBUG=true
+export GO_ENV=dev
