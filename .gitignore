@@ -15,5 +15,6 @@ worker-pool
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
-# envs
+# dot file
 .envrc
+.vscode
